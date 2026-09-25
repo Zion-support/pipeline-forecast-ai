@@ -34,4 +34,7 @@ CROs and RevOps who need a forecast built on evidence, not optimism.
 - [proposal-writer-ai](https://github.com/Zion-support/proposal-writer-ai) — https://ziontechgroup.com/proposal-writer-ai/
 
 ---
+
+📓 Category: [Sales Pipeline & Revenue AI](https://github.com/Zion-support/zion-network/blob/main/network/sales-pipeline-ai.md) · 📣 Spotlight: [Sales Pipeline & Revenue AI suite](https://github.com/Zion-support/zion-network/blob/main/spotlights/sales-pipeline-ai.md) · 📇 Master index: [APPS_NETWORK.md](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+
 © 2026 Zion Tech Group · https://ziontechgroup.com/
